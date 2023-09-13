@@ -11,6 +11,7 @@
     },
     "rules": {
         "no-console":"error",
+        "consistent-return":"error",
         "indent": [
             "off",
             4
