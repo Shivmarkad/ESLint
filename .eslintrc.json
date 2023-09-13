@@ -13,7 +13,7 @@
         "no-console":"error",
         "consistent-return":"error",
         "indent": [
-            "off",
+            "error",
             4
         ],
         "linebreak-style": [
